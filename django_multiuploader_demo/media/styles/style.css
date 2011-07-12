@@ -1,0 +1,12 @@
+@charset 'UTF-8';
+
+body {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 13px;
+  margin: 0;
+  padding: 20px;
+}
+
+a {
+  color: #222;
+}

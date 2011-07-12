@@ -1,0 +1,19 @@
+Django Multiuploader Demo
+----------------------------------------------------------------------
+Readme for demo of Django Multiuploader using jQuery Plugin by Sebastian Tschan(https://blueimp.net/).
+
+This is an example usage of multiupload form from Sebastian Tschan.
+It uses jQuey UI and jQuery instead of Flash uploader.
+On Django side it uses sorl-thumbnails and PIL.
+You can easily rewrite it for usage of any other libs of your choice.
+
+Requirements:
+----------------------------------------------------------------------
+    - PIL(Python Imaging Library)
+    - sorl-thumbnail's(http://thumbnail.sorl.net/)
+
+
+Demo Database login data:
+----------------------------------------------------------------------
+    username: user
+    password: password
