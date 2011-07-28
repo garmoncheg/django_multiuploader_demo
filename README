@@ -1,5 +1,11 @@
 Django Multiuploader Demo
 ----------------------------------------------------------------------
+
+WARNING this repo is prohibited and will no longer be supported.
+fell free to visit plugin usage example (newer version) used in this demo:
+https://github.com/garmoncheg/django_multiuploader_example_usage
+
+
 Readme for demo of Django Multiuploader using jQuery Plugin by Sebastian Tschan(https://blueimp.net/).
 
 This is an example usage of multiupload form from Sebastian Tschan.
@@ -17,3 +23,6 @@ Demo Database login data:
 ----------------------------------------------------------------------
     username: user
     password: password
+    
+Hope to develop this project to a easy usable plugin soon, using templatetags and 
+standalone app conceptions.
